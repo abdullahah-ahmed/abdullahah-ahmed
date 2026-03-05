@@ -1,54 +1,53 @@
-# 👋 Hi, I'm Abdullah Ahmed
+<h1 align="center">Hi 👋, I'm Abdullah Ahmed</h1>
+<h3 align="center">Junior Data Analyst | Business Intelligence Enthusiast</h3>
 
-🎯 Junior Data Analyst | Business Intelligence Enthusiast  
-📍 Cairo, Egypt 
+<p align="center">
+📍 Cairo, Egypt <br/>
+💼 <a href="https://www.linkedin.com/in/abdullah-ahmed-taha/">LinkedIn</a> • 
+📧 <a href="mailto:abdullah.ahmed.m.taha@gmail.com">Email</a>
+</p>
+
 ---
 
 ## 🧠 About Me
 
-I am a Data Analyst with a strong foundation in statistics, data analysis, and business intelligence tools.
+I am a Data Analyst with a strong foundation in statistics, data modeling, and business intelligence tools.
 
-I completed a 140-hour professional Data Analysis Diploma and a practical internship experience where I worked with real datasets, performed data cleaning, exploratory analysis, and built interactive dashboards to support business decision-making.
+I completed a 140-hour professional Data Analysis Diploma and a practical internship experience where I worked with real datasets, performed data cleaning, exploratory data analysis, and built interactive dashboards to support business decision-making.
 
 I focus on transforming raw data into clear, actionable insights using structured analytical approaches.  
 Currently expanding my expertise toward Data Science and advanced analytics.
 
 ---
 
-## 🛠️ Technical Skills
+## 🛠️ Tech Stack
 
-### 📊 Data Analysis & Business Intelligence
-- Microsoft Excel (Advanced Formulas, Pivot Tables, Charts, Business Reporting)
-- Power Query (Data Cleaning & Transformation)
-- Power BI (Data Modeling, DAX, Interactive Dashboards, Performance Optimization)
-- Tableau (Data Visualization & Reporting)
-- Exploratory Data Analysis (EDA)
-- Data Storytelling & Report Enhancement
+### 📊 Data Analysis & BI
+<p>
+<img src="https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white"/>
+<img src="https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=power-bi&logoColor=black"/>
+<img src="https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white"/>
+<img src="https://img.shields.io/badge/Power%20Query-742774?style=for-the-badge"/>
+</p>
 
-### 💻 Databases & SQL
-- SQL Server
-- Writing Complex Queries (Joins, Subqueries, Grouping, Aggregations)
-- Views & Stored Procedures
-- Indexing & Query Optimization
-- Database Design & Normalization
-- RDBMS Concepts & Relationships
+### 💻 Databases & Programming
+<p>
+<img src="https://img.shields.io/badge/SQL%20Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white"/>
+<img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
+<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
+<img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas"/>
+<img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy"/>
+<img src="https://img.shields.io/badge/Matplotlib-ffffff?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Seaborn-4C72B0?style=for-the-badge"/>
+</p>
 
-### 🐍 Python for Data Analysis
-- Pandas
-- NumPy
-- Matplotlib
-- Seaborn
-- Data Cleaning in Python
-- Web Scraping Basics
-- Control Flow & Functions
-
-### 📈 Core Knowledge
-- Statistics
-- Data Modeling
-- Data Transformation
-- Business Intelligence Concepts
-- Dashboard Development
-- Data Preparation & Performance Optimization
+### 📈 Core Skills
+- Statistics  
+- Exploratory Data Analysis (EDA)  
+- Data Cleaning & Transformation  
+- Data Modeling  
+- DAX & Dashboard Development  
+- Database Design & Normalization  
 
 ---
 
@@ -56,25 +55,19 @@ Currently expanding my expertise toward Data Science and advanced analytics.
 
 - 📊 Excel Sales Analysis Dashboard  
 - 📈 Power BI Business Performance Dashboard  
-- 🗄 SQL Data Analysis & Query Optimization Project  
+- 🗄 SQL Data Analysis & Query Optimization  
 
-(More detailed project documentation available inside each repository.)
+(Full documentation available inside each repository.)
 
 ---
 
 ## 📚 Professional Background
 
-- 🎓 Data Analysis Diploma (140 Hours)
-- 💼 Data Analysis Internship (Hands-on Practical Experience)
+- 🎓 Data Analysis Diploma (140 Hours)  
+- 💼 Data Analysis Internship  
 
 ---
 
-## 🤝 Connect With Me
-
-- 💼 [LinkedIn](https://www.linkedin.com/in/abdullah-ahmed-taha/)
-- 📧 [Email](mailto:abdullah.ahmed.m.taha@gmail.com)
-- 💻 [GitHub](https://github.com/abdullahah-ahmed)
-
----
-
-> "Turning data into decisions."
+<p align="center">
+⭐ Always learning. Always building.
+</p>
