@@ -22,30 +22,33 @@ Currently expanding my expertise toward Data Science and advanced analytics.
 
 ## 🛠️ Tech Stack
 
-### 📊 Data Analysis & BI
-<p>
-<img src="https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white"/>
-<img src="https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=power-bi&logoColor=black"/>
-<img src="https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white"/>
-<img src="https://img.shields.io/badge/Power%20Query-742774?style=for-the-badge"/>
-</p>
+### 📊 Data Analysis & Business Intelligence
+- Microsoft Excel (Advanced Formulas, Pivot Tables, Business Reporting)
+- Power Query (Data Cleaning & Transformation)
+- Power BI (Data Modeling, DAX, Interactive Dashboards)
+- Tableau (Data Visualization & Reporting)
+- Exploratory Data Analysis (EDA)
 
-### 💻 Databases & Programming
-<p>
-<img src="https://img.shields.io/badge/SQL%20Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white"/>
-<img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
-<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
-<img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas"/>
-<img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy"/>
-<img src="https://img.shields.io/badge/Matplotlib-ffffff?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/Seaborn-4C72B0?style=for-the-badge"/>
-</p>
-
+### 💻 Databases
+- SQL Server
+- Complex Queries (Joins, Subqueries, Aggregations)
+- Views & Stored Procedures
+- Indexing & Query Optimization
+- Database Design & Normalization
+  
+### 🐍 Python for Data Analysis
+- Pandas
+- NumPy
+- Matplotlib
+- Seaborn
+- Data Cleaning & Web Scraping Basics
+  
 ### 📈 Core Skills
 - Statistics  
 - Exploratory Data Analysis (EDA)  
 - Data Cleaning & Transformation  
-- Data Modeling  
+- Data Modeling
+- Data warehousing 
 - DAX & Dashboard Development  
 - Database Design & Normalization  
 
@@ -55,7 +58,8 @@ Currently expanding my expertise toward Data Science and advanced analytics.
 
 - 📊 Excel Sales Analysis Dashboard  
 - 📈 Power BI Business Performance Dashboard  
-- 🗄 SQL Data Analysis & Query Optimization  
+- 🗄 SQL Data Analysis & Query Optimization
+- 💻 Python Data Analysis & visualization
 
 (Full documentation available inside each repository.)
 
