@@ -1,9 +1,7 @@
 # 👋 Hi, I'm Abdullah Ahmed
 
 🎯 Junior Data Analyst | Business Intelligence Enthusiast  
-📍 Cairo, Egypt  
-- 💼 [LinkedIn](https://www.linkedin.com/in/abdullah-ahmed-taha/)
-- 📧 [Email](mailto:abdullah.ahmed.m.taha@gmail.com)
+📍 Cairo, Egypt 
 ---
 
 ## 🧠 About Me
