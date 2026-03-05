@@ -1,16 +1,19 @@
-## Hi there 👋
+# Hi, I'm Abdullah Ahmed 👋
 
-<!--
-**abdullahah-ahmed/abdullahah-ahmed** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎯 Junior Data Analyst passionate about transforming data into actionable insights.
 
-Here are some ideas to get you started:
+## 🛠 Technical Skills
+- Python (Pandas, NumPy, Matplotlib, Seaborn)
+- SQL (Joins, Subqueries, Views, Stored Procedures)
+- Power BI (Data Modeling, DAX, Dashboards)
+- Microsoft Excel (Advanced Formulas, Data Analysis)
+- Tableau
+- Statistics & Exploratory Data Analysis
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 Currently
+- Improving my analytical thinking
+- Expanding toward Data Science
+- Building real-world data projects
+
+## 📫 Connect With Me
+- GitHub: github.com/abdullahah-ahmed
